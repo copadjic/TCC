@@ -1,0 +1,10 @@
+Thiago Copadjic
+
+Nome : pesque seu pesqueiro
+
+Funcionalidade :irei fazer um cadastro de pesqueiros, o usuário irá selecionar o peixe que deseja , o media dos peixes que deseja , e se deseja alguma opção 
+de lazer. Após clicar em pesquisar , irá ser feita uma busca do melhor pesqueiro dentro do que o usario procura , falando nome,
+as opções de lazer, media de temperatura dos ultimos 7 dias , temperatura do proximo dia , ultimas materias realizadas no pesqueiro,
+Cidade do pesqueiro , estado, site do pesqueiro(se tiver), e alguma observação ( um ponto positivo e um ponto negativo ).
+
+O projeto pode sofrer alterações ao decorrer do desenvolvimento.
