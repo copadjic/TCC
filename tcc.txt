@@ -8,3 +8,5 @@ as opções de lazer, media de temperatura dos ultimos 7 dias , temperatura do pro
 Cidade do pesqueiro , estado, site do pesqueiro(se tiver), e alguma observação ( um ponto positivo e um ponto negativo ).
 
 O projeto pode sofrer alterações ao decorrer do desenvolvimento.
+
+Será utilizado HTML, JAVA, CSS, MYSQL

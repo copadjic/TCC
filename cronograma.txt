@@ -1,0 +1,11 @@
+Cronograma TCC 
+
+Thiago Copadjic
+
+Site para pesquisa de pesqueiro
+
+até o fim de agosto : todas as telas prontas
+primeira semana de setembro: acesso do usuario 
+até o fim de setembro : pesquisa simples funcionando
+até o fim de outubro : toda parte do usuario comum funcionando
+até o fim de novembro : todo site funcionando
